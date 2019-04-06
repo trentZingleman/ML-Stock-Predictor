@@ -1,1 +1,2 @@
 The stock dataset we will be using is hosted on kaggle at the following link: https://www.kaggle.com/qks1lver/amex-nyse-nasdaq-stock-histories/version/4
+	Then extract everything in the full_history zip folder into a subfolder in this directory named "Stocks"
